@@ -3,10 +3,10 @@
 - 👀 I’m interested in DevOps and cloud
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web projects
-- 📫 How to reach through twitter and whatsapp
-- 😄 Pronouns: he/him
+- 📫 You can reach me through my email: georgemulu384@gmail.com
+- 😄 
 - ⚡ Fun fact: ...
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=georgemulu)](https://git.io/streak-stats)
 <!---
 georgemulu/georgemulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
