@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @georgemulu
 - 👀 I’m interested in DevOps and cloud
-- 🌱 I’m currently learning dev ops engineering
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach through twitter and whatsapp
 - 😄 Pronouns: he/him
