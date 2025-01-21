@@ -6,6 +6,7 @@
 - 📫 You can reach me through my email: georgemulu384@gmail.com
 - 😄 ..
 - ⚡ Fun fact: I love pineapple mint juice
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=georgemulu&theme=algolia)](https://git.io/streak-stats)
 <!---
 georgemulu/georgemulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
