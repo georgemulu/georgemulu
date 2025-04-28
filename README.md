@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A86F7&width=435&lines=Always+learning;George+Mulu)](https://git.io/typing-svg)
 - 👋 Hi, I’m @georgemulu
-- 👀 I’m interested in everything to do with Python
-- 🌱 I’m currently honing my skills in python, its libraries and web frameworks
-- 💞️ I’m looking to collaborate on web projects
+- 👀 I’m interested in everything Data analysis and Data Science
+- 🌱 I’m currently learning data analysis and data visualization
+- 💞️ I’m looking to collaborate on data projects
 - 📫 You can reach me through my email: georgemulu384@gmail.com
 - 😄 ..
 - ⚡ Fun fact: I love pineapple mint juice
