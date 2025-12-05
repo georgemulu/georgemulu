@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2A86F7&width=435&lines=Always+learning;George+Mulu)](https://git.io/typing-svg)
 - 👋 Hi, I’m @georgemulu
-- 👀 I’m interested in Data analysis and Data Science
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning data analysis and data visualization
 - 💞️ I’m looking to collaborate on data projects
 - 📫 You can reach me through my email: georgemulu384@gmail.com
